@@ -7,7 +7,7 @@ Depending on the Pokemon's type the text displaying the information changes colo
 option to view a certain type at once or all of them at once. As well as sorting the list from ascending 
 and desceiding alphabetically and numerically.I applied everything I was taught, including implementing sorting
 algorithms and building and working aound data structures. Javafx was used to to create the graphical user interface (GUI)
-for the user to interact with the data. Images were used to represent the stick figure. 
+for the user to interact with the data.
 
 # Technologies
 Java, Javafx
